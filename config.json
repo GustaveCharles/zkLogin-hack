@@ -1,0 +1,6 @@
+{
+    "URL_ZK_PROVER": "http://188.166.161.63/prover-fe/v1",
+    "CLIENT_ID_GOOGLE": "57810966286-co8s5cf974bd73caid4vjecg7rvvtg02.apps.googleusercontent.com",
+    "CLIENT_ID_TWITCH": "YOUR_TWITCH_CLIENT_ID",
+    "CLIENT_ID_FACEBOOK": "YOUR_FACEBOOK_CLIENT_ID"
+}
